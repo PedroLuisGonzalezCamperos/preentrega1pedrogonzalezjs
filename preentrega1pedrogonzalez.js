@@ -1,6 +1,6 @@
-/*let x=parseInt(prompt("Ingresa el primer número de la progresión aritmética"));
+/*Código para calcular la suma de las primeros 10 términos de una progresión aritmética
 
-let r=parseInt(prompt("Ingresa la razón de la progresión aritmética"));*/
+el usuario deberá ingresar el valor del primer término y de la razón*/
 
 function progresion(x,r,z,y,termino,suma) {
 
