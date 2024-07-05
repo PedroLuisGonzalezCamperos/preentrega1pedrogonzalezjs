@@ -5,7 +5,7 @@ let r=parseInt(prompt("Ingresa la razón de la progresión aritmética"));*/
 function progresion(x,r,z,y,termino,suma) {
 
 
-x=parseFloat(prompt("Ingresa el primer número de la progresión aritmética"));
+x=parseFloat(prompt("Con este programa podrás calcular la suma de los primeros 10 términos de una progresión aritmética de números enteros. \n\n Ingresa el primer número de la progresión aritmética"));
 
 z=parseInt(x);
 
